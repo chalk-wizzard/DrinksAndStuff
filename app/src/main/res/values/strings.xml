@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DrinksAndStuff</string>
+    <string name="alcoholic_drinks">Алкогольные напитки</string>
+    <string name="non_alcoholic_drinks">Безалкогольные напитки</string>
+    <string name="serving_glassware">Посуда для подачи</string>
+    <string name="working_glassware">Посуда для работы</string>
+</resources>
